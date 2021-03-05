@@ -18,7 +18,6 @@ return [
     'Exams'=>'Exams',
     'Add_Parent'=>'Add Parent',
     'List_Parents'=>'List Parents',
-
     'library'=>'Library',
     'Onlineclasses'=>'Online classes',
     'Settings'=>'Settings',

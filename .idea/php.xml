@@ -1,34 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="f40b898f-da74-4889-a313-774b2c583277" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/AddParent.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/AddParent.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2021_02_24_181424_create_foreign_keys.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/main_trans.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/main_trans.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/livewire/add-parent.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/add-parent.blade.php" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
       <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
@@ -142,100 +114,10 @@
       <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1nWZz8o99qBUMdQrfQuboGESROH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Invoice_System" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\shcool-mangement\resources\lang\en" />
-      <recent name="C:\xampp\htdocs\shcool-mangement\resources\lang\ar" />
-      <recent name="C:\xampp\htdocs\shcool-mangement\database\migrations" />
-      <recent name="C:\xampp\htdocs\shcool-mangement\app\Http\Controllers\classrooms" />
-      <recent name="C:\xampp\htdocs\shcool-mangement\app\Models" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\shcool-mangement\app\Models" />
-      <recent name="C:\xampp\htdocs\shcool-mangement\app\Http\Controllers\Grades" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner scope="XML" />
-      <method v="2" />
-    </configuration>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="f40b898f-da74-4889-a313-774b2c583277" name="Default Changelist" comment="" />
-      <created>1611508066081</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1611508066081</updated>
-      <workItem from="1611508071303" duration="7106000" />
-      <workItem from="1611580039181" duration="9921000" />
-      <workItem from="1611944544010" duration="2001000" />
-      <workItem from="1611957647855" duration="2640000" />
-      <workItem from="1612107196883" duration="10340000" />
-      <workItem from="1612145087558" duration="618000" />
-      <workItem from="1612204297719" duration="564000" />
-      <workItem from="1613999424497" duration="14056000" />
-      <workItem from="1614068415258" duration="6781000" />
-      <workItem from="1614173372725" duration="118000" />
-      <workItem from="1614343542226" duration="85000" />
-      <workItem from="1614344513001" duration="20016000" />
-      <workItem from="1614678517554" duration="283000" />
-      <workItem from="1614943693837" duration="195000" />
-      <workItem from="1614979816756" duration="4080000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/phpunit.xml" custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
   </component>
 </project>
